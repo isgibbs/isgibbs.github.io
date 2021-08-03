@@ -1,4 +1,4 @@
-Sitemap: https://isgibbs.github.io/sitemap.xml
+Sitemap: isgibbs.github.io/sitemap.xml
 
 User-agent: *
 Disallow:
