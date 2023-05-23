@@ -8,11 +8,11 @@ rss = ""
 
 ## Publications and Preprints
 
+**Gibbs, I.**, Cherian, J., and Candès, E. (2023+). [Conformal Prediction With Conditional Guarantees](arxiv.org/abs/2305.12616). *arXiv preprint*.
+
+**Gibbs, I.** and Candès, E. (2022+). [Conformal Inference for Online Prediction with Arbitrary Distribution Shifts](https://arxiv.org/abs/2208.08401). *arXiv preprint*.
+
 **Gibbs, I.** and Candès, E. (2021). [Adaptive Conformal Inference Under Distribution Shift](https://proceedings.neurips.cc/paper_files/paper/2021/file/0d441de75945e5acbc865406fc9a2559-Paper.pdf). *Advances in Neural Information Processing Systems 34*.
-
-**Gibbs, I.** and Candès, E. (2021). [Conformal Inference for Online Prediction with Arbitrary Distribution Shifts](https://arxiv.org/abs/2208.08401). *arXiv preprint*.
-
-**Gibbs, I.**, Cherian, J., and Candès, E. (2021). [Conformal Prediction With Conditional Guarantees](arxiv.org/abs/2305.12616). *arXiv preprint*.
 
 **Gibbs, I.** and Chen, L. (2020). Asymptotic properties of random Voronoi cells with arbitrary underlying density. *Advances in Applied Probability*.
 
