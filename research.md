@@ -8,7 +8,7 @@ rss = ""
 
 ## Publications and Preprints
 
-**Gibbs, I.**, Cherian, J., and Candès, E. (2023+). [Conformal Prediction With Conditional Guarantees](arxiv.org/abs/2305.12616). *arXiv preprint*.
+**Gibbs, I.**, Cherian, J., and Candès, E. (2023+). [Conformal Prediction With Conditional Guarantees](https://arxiv.org/abs/2305.12616). *arXiv preprint*.
 
 **Gibbs, I.** and Candès, E. (2022+). [Conformal Inference for Online Prediction with Arbitrary Distribution Shifts](https://arxiv.org/abs/2208.08401). *arXiv preprint*.
 
