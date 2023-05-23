@@ -4,7 +4,7 @@
 ~~~
 <div class="row">
   <div class="container">
-    <img class="left" src="/assets/Isaac_Gibbs_Headshot.jpg" height=400px>
+    <img class="left" src="/assets/headshot.jpg" height=400px>
     <p>
     I am a fourth year PhD student in the Stanford Statistics Department advised by Emmanuel Cand&egraves. Previously, I completed a BSc in Math and Computer Science at McGill. My research focuses on developing new methods for quantifying the uncertainty of black-box prediction model (e.g. neural nets, random forests).
     </p>
