@@ -6,10 +6,10 @@
   <div class="container">
     <img class="left" src="/assets/Isaac_Gibbs_Headshot.jpg" height=400px>
     <p>
-    I am a second year PhD student in the Stanford Statistics Department advised by Emmanuel Cand&egraves. I am interested in a broad range of problems in statistics and machine learning. Currently, my research focuses on increasing the reliability and robustness of predictions made by black-box models.
+    I am a fourth year PhD student in the Stanford Statistics Department advised by Emmanuel Cand&egraves. Previously, I completed a BSc in Math and Computer Science at McGill. My research focuses on developing new methods for quantifying the uncertainty of black-box prediction model (e.g. neural nets, random forests).
     </p>
     <p>
-    Before coming to Stanford I completed a BSc in Math and Computer Science at McGill. You can reach me at <a href = "mailto: igibbs@stanford.edu">igibbs@stanford.edu</a>. A copy of my CV is available <a href="assets/IsaacGibbsCV.pdf"> here</a>.
+   You can reach me at <code>igibbs@stanford.edu</code>. A copy of my CV is available <a href="assets/IsaacGibbsCV.pdf"> here</a>.
     </p>
     <div style="clear: both"></div>      
   </div>
