@@ -12,7 +12,7 @@ rss = ""
 
 **Gibbs, I.**, Cherian, J., and Candès, E. (2025). [Conformal Prediction With Conditional Guarantees.](https://arxiv.org/abs/2305.12616) *Journal of the Royal Statistical Society: Series B*.
 
-Cherian, J., **Gibbs, I.**, and Cand\`{e}s, E. (2024). [Large language model validity via enhanced conformal prediction methods.] (https://arxiv.org/abs/2406.09714) *Advances in Neural Information Processing Systems.* 
+Cherian, J., **Gibbs, I.**, and Candès, E. (2024). [Large language model validity via enhanced conformal prediction methods.] (https://arxiv.org/abs/2406.09714) *Advances in Neural Information Processing Systems.* 
 
 **Gibbs, I.** and Candès, E. (2024). [Conformal Inference for Online Prediction with Arbitrary Distribution Shifts.](https://jmlr.org/papers/volume25/22-1218/22-1218.pdf) *Journal of Machine Learning Research*.
 
