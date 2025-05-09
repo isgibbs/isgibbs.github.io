@@ -1,14 +1,41 @@
 <div class="row g-5 mb-5">
   <div>
     <h3 class="fw-bold border-bottom pb-3 mb-5">Publications</h3>
-    {% if page.title == "Home" %}
-      {% for item in site.data.publications.featured %}
-        <p><a href="{{ item.url }}">{{ item.name }}</a></p>
-      {% endfor %}
-    {% else %}
-      {% for item in site.data.publications.index %}
-        <p><a href="{{ item.url }}">{{ item.name }}</a></p>
-      {% endfor %}
-    {% endif %}
+    <p><strong>Gibbs, I.</strong> and Candès, E. (2025+).
+    <a href="https://arxiv.org/abs/2502.20579">Characterizing the training-conditional coverage of full conformal inference in high dimensions.</a>
+    <em>arXiv preprint.</em></p>
+
+    <p><strong>Gibbs, I.</strong>, Cherian, J., and Candès, E. (2025).
+    <a href="https://arxiv.org/abs/2305.12616">Conformal Prediction With Conditional Guarantees.</a>
+    <em>Journal of the Royal Statistical Society: Series B.</em></p>
+
+    <p>Cherian, J., <strong>Gibbs, I.</strong>, and Candès, E. (2024).
+    <a href="https://arxiv.org/abs/2406.09714">Large language model validity via enhanced conformal prediction methods.</a>
+    <em>Advances in Neural Information Processing Systems.</em></p>
+
+    <p><strong>Gibbs, I.</strong> and Candès, E. (2024).
+    <a href="https://jmlr.org/papers/volume25/22-1218/22-1218.pdf">Conformal Inference for Online Prediction with Arbitrary Distribution Shifts.</a>
+    <em>Journal of Machine Learning Research.</em></p>
+
+    <p><strong>Gibbs, I.</strong> and Candès, E. (2021).
+    <a href="https://proceedings.neurips.cc/paper_files/paper/2021/file/0d441de75945e5acbc865406fc9a2559-Paper.pdf">Adaptive Conformal Inference Under Distribution Shift.</a>
+    <em>Advances in Neural Information Processing Systems.</em> (oral presentation)</p>
+
+    <p><strong>Gibbs, I.</strong> and Chen, L. (2020).
+    Asymptotic properties of random Voronoi cells with arbitrary underlying density.
+    <em>Advances in Applied Probability.</em></p>
+
+    <p><strong>Gibbs, I.</strong>, Leavey, K., Benton, S.J., Grynspan, D., Bainbridge, S.A., and Cox, B.J. (2019).
+    Placental transcriptional and histologic subtypes of normotensive fetal growth restriction are comparable to preeclampsia.
+    <em>American Journal of Obstetrics and Gynecology.</em></p>
+<!--    {% if page.title == "Home" %}-->
+<!--      {% for item in site.data.publications.featured %}-->
+<!--        <p><a href="{{ item.url }}">{{ item.name }}</a></p>-->
+<!--      {% endfor %}-->
+<!--    {% else %}-->
+<!--      {% for item in site.data.publications.index %}-->
+<!--        <p><a href="{{ item.url }}">{{ item.name }}</a></p>-->
+<!--      {% endfor %}-->
+<!--    {% endif %}-->
   </div>
 </div>
